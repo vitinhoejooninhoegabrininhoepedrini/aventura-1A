@@ -8,3 +8,26 @@ align-items: center;
 height: 700px;
 margin: 0;
 }
+
+button{
+     background-color: aliceblue;
+     color: black;
+     font-family: 'Times New Roman', Times, serif;
+}
+
+.passo{
+     display: none;
+}
+
+.passo.ativos{
+    display: block;
+}
+
+main{
+    text-align: center ;
+    max-width: 90%;
+}
+
+ing{
+    max-width: 30%;
+}
